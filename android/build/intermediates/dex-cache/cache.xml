@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/6441707a46e8d62b54170b462ac2e6ffd566b825/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_1cc03fabc13aa9357e3fee0f2e8332b483f97876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/c5e177330db4c2d5eb0890453dace0b62bd56f88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_5e19d27d85d051b6584c0e061fc2c10c7c26e109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/7ee9175d7143597662da7d91eb65d7f1127097ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_ee71b5d77a8bdac426dc2d368254142dd3ab0ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/4c0540a1ac936009b2e4182750f34391fcc097f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_f443b2db2795b4b53d7810d7b93f01f6094a4547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/19bb837bd4a2c11a3c3f1a300a60aa7159601b1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_030e48116297831c5054493403cc9d9641f4fab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_6d98849c5024191430dd41f4cb225b5ed3a5b0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/a9718836fd45568a40f48c777700860846abc767/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_6723d821d77df24edecb0883c3d6e06cd8c5fbc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_bba749e0d56ce17396a37e599aae7d232e6cb01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_1166b8614f600b79789fa6141a581f16e43eea39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/1bcf395f61d811839fd72c63ab5046a351cd4bfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_f0bfa67eed39db19cb17f60adac9c12f6a598286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/4c961fe6ddc7082c599870f205fcc14d18f37460/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_e6e357b4d61955c9b308123b7c86edf0368563d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_14ef0fb1d8c04a58f9932fe9f163a9b7d5797d74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/3b299866bc2fbae69aed92fca228ca4071422f30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_da126aea2e8c8801923679e3227a975c8f3e2a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/2f2e0fa5e32f0033e765b5da69b60322b3e52250/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_668987216b34b55b1d2c3e5b2fe4df75b737050a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_b3e4ecdd1f6f0e720dd0e8ad8d78e99c990c3d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/b07e5e5c3d62a195d580a5377861afce2c453975/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_02d95ec5bb1dcee8cd4bb936e240ad06f3cb585f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_594df9c847f8a965b556894e8fff8919322f8060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/3dcfa1eeca5e60581e9346f882cb26e1d8a2996e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_14c9a510e6eb83c2588a2a3af13fd7161638d7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8f83b920ae1468fc97bc8e4fda4493432a6767be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/ae6bf87d61a54cb05ed69f1d8134b1ebfd483b62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_0b349e7ad25cf5084811a5cc33b34be6b6de2933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2a4cf54f4ad77af606c7d85d799f9097065887ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8dbe88e5f21dc475356f07fd398d815680e53583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/2a08ce3d7cd44a4ca79159d504aa5d22111cffb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_16b25e5937dd44c5f32cc81655e87e473e5c2cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/a7fe28a41ca0a6a766a62fa71ce6c7157aaabcc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_b654a67a083669dcafb113b80283a14de69a2df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/da7b33a954f45102e897fb1779f212e983d749cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_bf2dedc18cde8e4744e6d45a97b61dd083b9c0b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/bf0228709539970b73b016e388ff6fa0d3d1f293/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_e11c415499a122ed35e5e5ebead255a1b41ae93d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/1626974c863e77a3a4874478d1a3dce53de7dbb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_517fc86907cd9815b6859d1aa1e6624ae41e3f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/baf50c45bbc7fd9fb4da0462b535860c73e59224/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_da8a3407f6494fd9ce5b2f833ff131682fd99fa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.android/build-cache/2f2e0fa5e32f0033e765b5da69b60322b3e52250/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/classes_22340f14680c0b5c19ca26ec953baf6767302afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariaagathaespana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_c6532608d6e7b00e7f546781e5c81fe7759a118a.jar" />
+    </item>
+
+</items>

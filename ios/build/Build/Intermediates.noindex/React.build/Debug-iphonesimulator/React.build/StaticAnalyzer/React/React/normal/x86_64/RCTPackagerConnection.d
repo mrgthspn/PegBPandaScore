@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/mariaagathaespana/Documents/PegBExam/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mariaagathaespana/Documents/PegBExam/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mariaagathaespana/Documents/PegBExam/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/mariaagathaespana/Documents/PegBExam/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h

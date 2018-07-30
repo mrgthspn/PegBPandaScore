@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/mariaagathaespana/.android/build-cache/da7b33a954f45102e897fb1779f212e983d749cf/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mariaagathaespana/.android/build-cache/da7b33a954f45102e897fb1779f212e983d749cf/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mariaagathaespana/.android/build-cache/da7b33a954f45102e897fb1779f212e983d749cf/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mariaagathaespana/Documents/PegBExam/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mariaagathaespana/.android/build-cache/da7b33a954f45102e897fb1779f212e983d749cf/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
